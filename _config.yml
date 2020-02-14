@@ -48,8 +48,8 @@ projects:
 
 topics:
   - name: PyTorch
-    web_url: https://github.com/pytorch/pytorch
-    image_url: https://github.com/yunjey/pytorch-tutorial/blob/master/logo/pytorch_logo.png
+    web_url: https://github.com/topics/pytorch
+    image_url: https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png
 
   - name: Web design
 
